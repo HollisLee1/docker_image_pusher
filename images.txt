@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 lobehub/lobe-chat
 mzz2017/v2raya
+1
