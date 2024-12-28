@@ -7,3 +7,4 @@ xhofe/alist:latest
 lobehub/lobe-chat
 mzz2017/v2raya
 v2rayA/v2rayA
+Bin-Huang/chatbox
